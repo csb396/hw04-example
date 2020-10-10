@@ -1,2 +1,2 @@
 # hw04-example
-![connecting to i6](./i6.jpg)
+![connecting to i6](./i6.png)
